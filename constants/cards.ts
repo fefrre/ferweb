@@ -5,7 +5,7 @@ export const cards: readonly CardType[] = [
   {
     id: "basico",
     title: "Starter Pack",
-    price: "$2,500 - $3,000 MXN",
+    price: "$2,000 - $3,000 MXN",
     features: [
       "Landing page responsive",
       "Formulario de contacto funcional",
@@ -21,7 +21,7 @@ export const cards: readonly CardType[] = [
   {
     id: "intermedio",
     title: "Business Pack",
-    price: "$4,000 - $5,000 MXN",
+    price: "$3,500 - $5,000 MXN",
     features: [
       "Landing + Blog o Sección dinámica",
       "Panel de administración básico con Supabase",
